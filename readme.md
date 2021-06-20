@@ -1,5 +1,5 @@
 :wink:Nothing impressive in this profile
 >_**"Except those adorable cats"**_  
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-![Alt Text](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy.gif" width="40" height="40" />
